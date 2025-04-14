@@ -1,0 +1,14 @@
+---
+layout: page
+---
+<h1>{{page.title}}</h1>
+{% if page.code_folder %}
+<span class="label ml-0 label-purple">
+    Code Access
+</span>
+The completed code for this day can be found on <a href="{{site.github_repo_tree_root}}/{{page.code_folder}}" target="_blank">GitHub Here</a>
+or inside the folder <code class="language-plaintext highlighter-rouge">{{page.code_folder}}</code> in the repository root.
+{% endif %}
+{{ content }}
+
+{% include pager.html %}

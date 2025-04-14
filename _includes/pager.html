@@ -1,0 +1,9 @@
+<hr/>
+{% if page.previous_page %}
+<a href="{{page.previous_page }}" class="btn btn-purple float-left mb-6 fs-6">&larr; Previous</a>
+{% endif %}
+
+{% if page.next_page %}
+<a href="{{ page.next_page }}" class="btn btn-purple float-right mb-6 mr-4 fs-6">Next &rarr;</a>
+{% endif %}
+<br/>

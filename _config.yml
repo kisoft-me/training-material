@@ -1,0 +1,16 @@
+title: Training
+description:  Material and training sources for onboarding
+theme: just-the-docs
+
+url: https://training.kisoft.me
+baseurl: "/" # the subpath of your site, e.g. /blog
+search_enabled: true
+markdown: kramdown
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap  
