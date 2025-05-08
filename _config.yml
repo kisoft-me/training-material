@@ -2,8 +2,8 @@ title: Training
 description:  Material and training sources for onboarding
 theme: just-the-docs
 
-url: https://training.kisoft.me
-baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://kisoft-me.github.io
+baseurl: "/training-material" # the subpath of your site, e.g. /blog
 search_enabled: true
 markdown: kramdown
 
