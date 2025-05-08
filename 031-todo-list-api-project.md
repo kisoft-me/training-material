@@ -19,3 +19,6 @@ previous_page: 030-simple-javalin-project
 - ### **```updatedOn (ZonedDateTime) (On updating a TODO, the updatedOn field must be updated)```** 
 - ### **```id (String) (of UUID)```** 
 - ### **```ISBN (String)```**
+
+### Example 
+- [Todo List API Project](https://github.com/AbbasNassar/training-examples/tree/main/todo-list-api-project){:target="_blank"}

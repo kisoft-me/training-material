@@ -18,3 +18,6 @@ previous_page: 036-understanding-docker
 - ### **```Lazy loading```**
 - ### **```Configuration via file```**
 - ### **```Dockerfile and building Images```**
+
+### Example
+- [Twitter Replica](https://github.com/AbbasNassar/twitter){:target="_blank"}

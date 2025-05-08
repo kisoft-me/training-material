@@ -12,3 +12,6 @@ previous_page: 029-basics-of-javalin
 - **and echo endpoint that returns whatever body was sent to it**
 - **A before middleware/handler that logs the matched path** 
 - **An after middleware/handler that logs the user session ID**
+
+### Example
+- [Simple Javalin Project](https://github.com/AbbasNassar/training-examples/tree/main/simple-javalin-project){:target="_blank"}
