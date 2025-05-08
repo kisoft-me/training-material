@@ -14,4 +14,4 @@ previous_page: 029-basics-of-javalin
 - **An after middleware/handler that logs the user session ID**
 
 ### Example
-- [Simple Javalin Project](https://github.com/AbbasNassar/training-examples/tree/main/simple-javalin-project){:target="_blank"}
+- [Simple Javalin Project](https://github.com/kisoft-me/training-material/tree/master/simple-javalin-project){:target="_blank"}

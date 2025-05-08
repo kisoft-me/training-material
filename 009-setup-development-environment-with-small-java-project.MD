@@ -59,4 +59,4 @@ previous_page: 008-introduction-to-maven
 - [File Handling in Java](https://www.w3schools.com/java/java_files.asp){:target="_blank"}
 
 ## Example
-- [Book Management System](https://github.com/AbbasNassar/training-examples/tree/main/book-management-system){:target="_blank"}
+- [Book Management System](https://github.com/kisoft-me/training-material/tree/master/book-management-system){:target="_blank"}

@@ -14,4 +14,4 @@ previous_page: 032-basics-of-html-css-js-and-bootstrap
 - [Server-side rendering micro-frontends – the architecture](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/){:target="_blank"}
 
 ### Example
-- [Simple Javalin Project with Pebble Templates](https://github.com/AbbasNassar/training-examples/tree/main/javalin-with-pebble-templates){:target="_blank"}
+- [Simple Javalin Project with Pebble Templates](https://github.com/kisoft-me/training-material/tree/master/javalin-with-pebble-templates){:target="_blank"}
