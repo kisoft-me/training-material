@@ -1,0 +1,8 @@
+com\example\FlywayMigration.class
+com\example\ToDoController.class
+com\example\ToDo.class
+com\example\App.class
+com\example\ToDoDAO.class
+com\example\ToDoModule.class
+com\example\ToDoRepository.class
+com\example\ToDoService.class

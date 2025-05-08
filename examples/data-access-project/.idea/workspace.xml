@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b312a621-1eb8-4ead-b2d6-95fe6868dc4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/DatabaseConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/DatabaseConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/FlywayMigration.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/FlywayMigration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/example/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/example/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/demo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/demo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/surefire-reports/TEST-com.example.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/surefire-reports/TEST-com.example.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/surefire-reports/com.example.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/surefire-reports/com.example.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/test-classes/com/example/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/test-classes/com/example/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2pKvktn057cwyPgFCSR2Enz7MsC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/abbas/Desktop/InternshipProjects/SimpleDataAccessProject",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b312a621-1eb8-4ead-b2d6-95fe6868dc4e" name="Changes" comment="" />
+      <created>1732527727188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732527727188</updated>
+      <workItem from="1732527728344" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
