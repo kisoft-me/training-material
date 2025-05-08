@@ -21,4 +21,4 @@ previous_page: 030-simple-javalin-project
 - ### **```ISBN (String)```**
 
 ### Example 
-- [Todo List API Project](https://github.com/kisoft-me/training-material/tree/master/todo-list-api-project){:target="_blank"}
+- [Todo List API Project](https://github.com/kisoft-me/training-material/tree/master/examples/todo-list-api-project){:target="_blank"}
