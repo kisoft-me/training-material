@@ -13,6 +13,3 @@ previous_page: 024-introduction-to-lombok
 - [Introduction to HikariCP](https://www.baeldung.com/hikaricp){:target="_blank"}
 - [Flyway Migrations](https://documentation.red-gate.com/fd/migrations-184127470.html#sql-based-migrations){:target="_blank"}
 - [Flyway Documentation](https://documentation.red-gate.com/fd#the-flyway-class){:target="_blank"}
-
-### look at the following files on github:
-- [Simple Data Access Project](https://github.com/AbbasNassar/SimpleDataAccessProgram/tree/main/demo/src/main/java/com/example){:target="_blank"}

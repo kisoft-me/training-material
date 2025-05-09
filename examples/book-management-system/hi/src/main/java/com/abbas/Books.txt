@@ -1,0 +1,13 @@
+978316,The Great Gatsby,F. Scott Fitzgerald,10.99
+978161,To Kill a Mockingbird,Harper Lee,7.99
+978074,1984,George Orwell,8.99
+978045,Pride and Prejudice,Jane Austen,9.99
+978006,The Catcher in the Rye,J.D. Salinger,6.99
+978039,Moby-Dick,Herman Melville,12.99
+978030,The Hobbit,J.R.R. Tolkien,8.49
+978140,Fahrenheit 451,Ray Bradbury,10.99
+978037,Brave New World,Aldous Huxley,11.99
+978006,The Grapes of Wrath,John Steinbeck,15.99123456
+123456,we,abbas,2.0
+111111,21,abbas,2.0
+121345,23,abbas,23.4

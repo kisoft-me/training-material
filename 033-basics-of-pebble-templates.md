@@ -12,3 +12,6 @@ previous_page: 032-basics-of-html-css-js-and-bootstrap
 - [Views and Templates](https://javalin.io/documentation#views-and-templates){:target="_blank"}
 - [Adding dependencies](https://javalin.io/plugins/rendering){:target="_blank"}
 - [Server-side rendering micro-frontends – the architecture](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-the-architecture/){:target="_blank"}
+
+### Example
+- [Simple Javalin Project with Pebble Templates](https://github.com/kisoft-me/training-material/tree/master/examples/javalin-with-pebble-templates){:target="_blank"}

@@ -57,3 +57,6 @@ previous_page: 008-introduction-to-maven
 - [Working with ArrayList in Java](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html){:target="_blank"}
 
 - [File Handling in Java](https://www.w3schools.com/java/java_files.asp){:target="_blank"}
+
+## Example
+- [Book Management System](https://github.com/kisoft-me/training-material/tree/master/examples/book-management-system){:target="_blank"}
