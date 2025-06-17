@@ -8,7 +8,7 @@ previous_page: 009-setup-development-environment-with-small-java-project
 ### Read the following articles about Unit Testing and Mocking, and Dummy data:
 - [Intro to Unit Tests](https://medium.com/interleap/intro-to-unit-tests-f2b7750c2d3c){:target="_blank"}
 
-- [Unit Testing with JUnit 4]([https://www.vogella.com/tutorials/JUnit4/article.html](https://www.vogella.com/tutorials/JUnit/article.html)){:target="_blank"}
+- [Unit Testing with JUnit 5](https://www.vogella.com/tutorials/JUnit/article.html){:target="_blank"}
 
 - [Getting Started With Mockito and JUnit](https://howtodoinjava.com/mockito/junit-mockito-example/){:target="_blank"}
 
