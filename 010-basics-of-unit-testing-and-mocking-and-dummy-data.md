@@ -16,4 +16,4 @@ previous_page: 009-setup-development-environment-with-small-java-project
 
 - [Generating Unit Test Data with Instancio](https://www.baeldung.com/java-test-data-instancio){:target="_blank"}
 
-- [Using Assert4j with Junit 5 for clearer assertion code)[https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-writing-assertions-with-assertj/]{:target="_blank"}
+- [Using Assert4j with Junit 5 for clearer assertion code](https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-writing-assertions-with-assertj){:target="_blank"}
