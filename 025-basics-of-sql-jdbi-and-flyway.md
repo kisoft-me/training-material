@@ -11,5 +11,5 @@ previous_page: 024-introduction-to-lombok
 - [SQL Objects](https://jdbi.org/#sql-objects){:target="_blank"}
 - [Mappers](https://jdbi.org/#_mappers){:target="_blank"}
 - [Introduction to HikariCP](https://www.baeldung.com/hikaricp){:target="_blank"}
-- [Flyway Migrations](https://documentation.red-gate.com/fd/migrations-184127470.html#sql-based-migrations){:target="_blank"}
+- [Flyway Migrations](https://documentation.red-gate.com/fd/versioned-migrations-273973333.html){:target="_blank"}
 - [Flyway Documentation](https://documentation.red-gate.com/fd#the-flyway-class){:target="_blank"}
