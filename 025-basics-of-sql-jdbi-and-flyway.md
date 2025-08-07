@@ -13,3 +13,5 @@ previous_page: 024-introduction-to-lombok
 - [Introduction to HikariCP](https://www.baeldung.com/hikaricp){:target="_blank"}
 - [Flyway Migrations](https://documentation.red-gate.com/fd/versioned-migrations-273973333.html){:target="_blank"}
 - [Flyway Documentation](https://documentation.red-gate.com/fd#the-flyway-class){:target="_blank"}
+- [Flyway Java API](https://documentation.red-gate.com/fd/api-java-277579358.html){:target="_blank"}
+
